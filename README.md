@@ -87,7 +87,7 @@ o	Going global in Minutes
 
 •	For on-premises deployment provides dedicated resources but doesn’t provide much benefits. 
 
-**Quotes: 
+## Quotes: 
 
 “When arranged in a pyramid form the delivery models follow in the order of SAAD, PAAS, & IAAS.” 
 

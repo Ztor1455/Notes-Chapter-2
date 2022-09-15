@@ -86,3 +86,13 @@ o	Going global in Minutes
 •	Hybrid deployment gives users the opportunity to extend, grow, and combine this between the cloud and exisiting on-premises infrastructure. 
 
 •	For on-premises deployment provides dedicated resources but doesn’t provide much benefits. 
+
+**Quotes: 
+
+“When arranged in a pyramid form the delivery models follow in the order of SAAD, PAAS, & IAAS.” 
+
+This will help to remember these three service models as “SPI” and the pyramid will allow me to continue to gain a remembrance of these three important concepts. 
+
+“The most common economic rationale for investing in cloud-based IT sources is in the reduction of outright elimination of up-front IT investments, namely hardware and software purchases and ownership costs.” 
+
+This is a valid and probably the most important convincing point into why cloud computing is so important to businesses and users whom are looking to expand into the cloud services. 
